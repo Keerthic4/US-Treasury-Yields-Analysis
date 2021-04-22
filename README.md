@@ -4,7 +4,7 @@
 The trend of 55 years( 1962 to 2017) of US treasury yields insights From the
 Fred's website.
 
-# Data Exploration
+# Data Exploration:
 
 •The trend of 55 years( 1962 to 2017) of US treasury yields insights From the
 Fred's website it is clear that
@@ -19,7 +19,7 @@ high approx 16 compared to those of present( approx 2-3%)
 •Some short terms yields are missing during most of the years
 US Treasury
 
-# Data Preprocessing
+# Data Preprocessing:
 
 •Missing weekend and public holiday data because markets close.
 
