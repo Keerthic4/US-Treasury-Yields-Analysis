@@ -25,7 +25,7 @@ US Treasury
 
 •Considering 1 year, 3 year, 5 year and 10 year yields.
 
-•Y ield rates are most correlated with the values from their immediate past e.g.
+•Yield rates are most correlated with the values from their immediate past e.g.
 yield on Monday = yield on Friday.
 
 •For weekends and public holiday instead of imputing values, we modified the
